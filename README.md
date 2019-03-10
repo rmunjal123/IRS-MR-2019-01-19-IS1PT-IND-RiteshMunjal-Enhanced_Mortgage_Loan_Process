@@ -12,26 +12,26 @@ Implemented the following assets through the project:
 
 # User Guide
 ## Run the system using iss-vm
--Download pre-built virtual machine from http://bit.ly/iss-vm
-*-start iss-vm
-*-Launch KIE 7.12 via the shortcut "Tool KIE 7.12"
--After startup is complete, launch Google Chrome and click on the "KIE WB" shortcut
--Login using role "wbadmin"
--Create New Workspace
--Import Project from Github link
--Name the Project and click OK
--Deploy Project
+1. Download pre-built virtual machine from http://bit.ly/iss-vm
+2. start iss-vm
+3. Launch KIE 7.12 via the shortcut "Tool KIE 7.12"
+4. After startup is complete, launch Google Chrome and click on the "KIE WB" shortcut
+5. Login using role "wbadmin"
+6. Create New Workspace
+7. Import Project from Github link
+8. Name the Project and click OK
+9. Deploy Project
 
 ## Run the system in local machine:
--Download jBPM Server 7.12.0 from https://download.jboss.org/jbpm/release/7.12.0.Final/jbpm-server-7.12.0.Final-dist.zip
--Download and unzip it.
--On Linux/Mac, run jbpm-server-7.12.0.Final-dist/bin/standalone.sh
--On Windows, run jbpm-server-7.12.0.Final-dist/bin/standalone.bat
--Open browser and go to http://localhost:8080/jbpm-console/kie-wb.jsp
--Login using role "wbadmin"
--Create New Workspace
--Import Project from Github link
--Name the Project and click OK
--Deploy Project
+1. Download jBPM Server 7.12.0 from https://download.jboss.org/jbpm/release/7.12.0.Final/jbpm-server-7.12.0.Final-dist.zip
+2. Download and unzip it.
+3. On Linux/Mac, run jbpm-server-7.12.0.Final-dist/bin/standalone.sh
+4. On Windows, run jbpm-server-7.12.0.Final-dist/bin/standalone.bat
+5. Open browser and go to http://localhost:8080/jbpm-console/kie-wb.jsp
+6. Login using role "wbadmin"
+7. Create New Workspace
+8. Import Project from Github link
+9. Name the Project and click OK
+10.Deploy Project
 
 

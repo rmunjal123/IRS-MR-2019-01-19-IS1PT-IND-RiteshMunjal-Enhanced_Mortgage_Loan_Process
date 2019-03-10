@@ -11,10 +11,10 @@ Implemented the following assets through the project:
 5. Created Users and assigned them to different groups based on roles
 
 # User Guide
-[ 1 ] Run the system using iss-vm
+## Run the system using iss-vm
 -Download pre-built virtual machine from http://bit.ly/iss-vm
--start iss-vm
--Launch KIE 7.12 via the shortcut "Tool KIE 7.12"
+*-start iss-vm
+*-Launch KIE 7.12 via the shortcut "Tool KIE 7.12"
 -After startup is complete, launch Google Chrome and click on the "KIE WB" shortcut
 -Login using role "wbadmin"
 -Create New Workspace
@@ -22,7 +22,7 @@ Implemented the following assets through the project:
 -Name the Project and click OK
 -Deploy Project
 
-[ 2 ] Run the system in local machine:
+## Run the system in local machine:
 -Download jBPM Server 7.12.0 from https://download.jboss.org/jbpm/release/7.12.0.Final/jbpm-server-7.12.0.Final-dist.zip
 -Download and unzip it.
 -On Linux/Mac, run jbpm-server-7.12.0.Final-dist/bin/standalone.sh

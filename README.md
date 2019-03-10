@@ -18,7 +18,8 @@ Implemented the following assets through the project:
 4. After startup is complete, launch Google Chrome and click on the "KIE WB" shortcut
 5. Login using role "wbadmin"
 6. Create New Workspace
-7. Import Project from Github link
+7. Download Project to local machine from Github link
+8. Import project to KIE Workspace
 8. Name the Project and click OK
 9. Deploy Project
 
@@ -30,8 +31,9 @@ Implemented the following assets through the project:
 5. Open browser and go to http://localhost:8080/jbpm-console/kie-wb.jsp
 6. Login using role "wbadmin"
 7. Create New Workspace
-8. Import Project from Github link
-9. Name the Project and click OK
-10.Deploy Project
+8. Download Project to local machine from Github link
+9. Import project to KIE Workspace
+10. Name the Project and click OK
+11.Deploy Project
 
 
